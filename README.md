@@ -1,4 +1,4 @@
-# Sindle-Orientation-Analysis
+# Spindle-Orientation-Analysis
 The aim of this script is to find the spindles and return the nulber of division over time
 and their orientation. The orientation of a spindle is measured at the telophase, because in many system the spindle rotates during anaphase.
 
